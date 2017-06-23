@@ -1,18 +1,13 @@
+
 # ct-adc-user-id-textarea
 
 将从 Excel 表格中复制的用户 ID，格式化成逗号分隔的字符串（textarea）
 
 ## Table of contents
 
-- [Demo build setup](#demo-build-setup)
-- [Live Demo](#live-demo)
-- [What's included](#whats-included)
-- [Quick start](#quick-start)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Thought](#thought)
-- [License](#license)
+[toc]
 
-## Demo build setup
+## 项目运行
 
 ``` bash
 # install dependencies
@@ -32,13 +27,13 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## Live demo
+## 在线 demo
 
 Just click there: [Live Demo](http://htmlpreview.github.io/?https://github.com/ct-adc/ct-adc-user-id-textarea/blob/master/view/demo.html).
 
 ![demo.gif](./src/img/demo.gif)
 
-## What's included
+## 目录结构
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
@@ -54,9 +49,9 @@ ct-adc-pattern-input/
     └── demo.html
 ```
 
-## Quick start
+## 使用说明
 
-#### Parameter declaration
+#### 参数说明
 
 ```javascript
 /**
@@ -66,7 +61,7 @@ ct-adc-pattern-input/
  */
 ```
 
-#### Vue script
+#### JavaScript 部分
 
 组件配置项
 
@@ -77,7 +72,7 @@ setting: {
 }
 ```
 
-#### Vue template
+#### HTML 部分
 
 组件使用
 
