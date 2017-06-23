@@ -5,7 +5,16 @@
 
 ## Table of contents
 
-[toc]
+- [项目运行](#项目运行)
+- [在线 demo](#在线 demo)
+- [目录结构](#目录结构)
+- [使用说明](#使用说明)
+- [参数说明](#参数说明)
+- [JavaScript 部分](#javascript-部分)
+- [HTML 部分](#html-部分)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Thought](#thought)
+- [License](#license)
 
 ## 项目运行
 
